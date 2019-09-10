@@ -1,0 +1,25 @@
+{
+  "name": "wizardserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ymetalnikov/wizardserver.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ymetalnikov/wizardserver/issues"
+  },
+  "homepage": "https://github.com/ymetalnikov/wizardserver#readme",
+  "dependencies": {
+    "koa": "^2.8.1",
+    "koa-bodyparser": "^4.2.1",
+    "koa-combine-routers": "^4.0.2",
+    "koa-router": "^7.4.0"
+  }
+}
